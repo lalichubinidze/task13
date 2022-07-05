@@ -1,10 +1,3 @@
-//
-//  SceneDelegate.swift
-//  Task 13
-//
-//  Created by iveri gamezardashvili on 7/5/22.
-//
-
 import UIKit
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {

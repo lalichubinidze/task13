@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  Task 13
-//
-//  Created by iveri gamezardashvili on 7/5/22.
-//
-
 import UIKit
 
 @main
